@@ -1,12 +1,6 @@
-### Hi there 👋 My name is
-
-# __**Jose Lopez**__ 
+### Hi there 👋 Welcome to my Github profile!
 
 ![Github](https://img.shields.io/github/followers/lopezco?style=social) ![visitors](https://visitor-badge.laobi.icu/badge?page_id=lopezco.lopezco) [![dev.to badge](https://img.shields.io/badge/-joselopezco-%230177B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/joselopezco/)
-
-Welcome to my Github profile!
-
-I specialize in all things related to data engineering and data science, but I also like to learn other things as well. Alot of my commits are to private repositories so if you see a lacking of green squares that is likely the reason. I share what I learn here, but for a more coherent look check out [my website](https://bensstats.wordpress.com) where I share my insights in blog form. 
 
 ## :trophy: My Github Stats:
 
